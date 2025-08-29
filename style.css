@@ -1,0 +1,17 @@
+body {
+    text-align: center;
+    background-color: indianred;
+}
+
+#startButton {
+    background-color: gray;
+    font-size: 30px;
+    width: 50vw;
+    height: 10vh;
+    border-radius: 15px;
+}
+
+#resetButton {
+    background-color: gray;
+    border-radius: 5px;
+}
